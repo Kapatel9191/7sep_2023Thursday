@@ -1,0 +1,3 @@
+7/12/2022
+The bug life cycle consists of a set of states that a bug goes theough.
+A typical bug is a flaw or a diversion from the actual and expected output of the program.
